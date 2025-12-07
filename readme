@@ -1,0 +1,26 @@
+# Elements Energy Official Website
+
+This is the **official website for Elements Energy**, built to showcase their sustainable energy solutions for industries, hotels, residencies, and utilities. The website is fully responsive, interactive, and modern, designed to provide an engaging user experience while highlighting the company’s expertise and projects.
+
+## 🖥 Live Demo
+https://elementsenergies.com/
+vercel : https://elementspage.vercel.app/
+
+## 🌟 Features
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile.
+- **Interactive Sections**: Hero video with typewriter effect, parallax video section, animated counters.
+- **Mega Menus**: Dropdown menus for About Us and Solutions sections.
+- **Projects Showcase**: Display of multiple project case studies with navigation.
+- **Contact & Forms**: Integrated forms for energy assessment requests and general contact.
+- **Team & Career Sections**: Highlight team members and career opportunities.
+- **Social Integration**: LinkedIn and Instagram links.
+- **Optimized Performance**: Smooth scrolling, lazy-loaded video and images.
+
+## 🛠 Tech Stack
+- **Frontend**: React.js, React-Bootstrap, CSS
+- **Styling**: Tailwind / Custom CSS
+- **Video & Media**: HTML5 video, parallax sections
+- **Forms**: Integrated with FormSubmit.co for backend-free form submission
+- **State Management**: React Hooks (`useState`, `useEffect`) for interactivity
+- **Animations & Effects**: Typewriter effect, scrolling-based navbar changes, hover effects
+
